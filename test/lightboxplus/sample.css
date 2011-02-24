@@ -34,22 +34,22 @@ address a {
 	text-decoration: none;
 	border-bottom: 1px solid #ccd;
 }
-ul#photos {
-	width: 500px;
+ul.photos {
+	width: 750px;
 	padding: 50px 0px;
 	margin: 0px auto;
 	text-align: center;
 	list-style: none;
 }
-ul#photos li {
+ul.photos li {
 	display: inline;
 	width: 160px;
 	height: 160px;
 }
-ul#photos a.horizontal img,
-ul#photos a.effectable img {
+ul.photos a.horizontal img,
+ul.photos a.effectable img {
 	padding: 15px 0px;
 }
-ul#photos a.vertical img {
+ul.photos a.vertical img {
 	padding: 0px 15px;
 }
