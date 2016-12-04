@@ -1,6 +1,17 @@
 Zoom.it Lightbox
 ================
 
+FIXME: This library relied on Zoom.it exposing its viewer JS.
+Zoom.it is now ZoomHub, and it now uses OpenSeadragon:
+
+- http://zoomhub.net/
+- https://openseadragon.github.io/
+
+So this library needs to be updated to use OpenSeadragon.
+This library is currently broken until that happens.
+
+====
+
 Zoom.it Lightbox is a Lightbox variant powered by Zoom.it.
 This makes it perfect for high-resolution images.
 
